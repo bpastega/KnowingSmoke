@@ -1,6 +1,6 @@
 <h1>KnowingSmoke</h1>
 
-## Projeto de Bot do Discord para Smokes no CS:GO</h2>
+## Projeto de Bot do Discord para Smokes no CS2</h2>
 
 Este repositório é um projeto para criação e implementação de um bot do Discord usando node.js voltado para a comunidade de jogadores do jogo sucessor de Counter-Strike: Global Offensive (CS:GO), o Counter-Strike 2(CS2). O objetivo principal deste bot será ajudar os jogadores a consultarem, descobrirem e compartilharem informações novas sobre smokes em diferentes mapas.
 
